@@ -35,4 +35,6 @@ if x_axis and y_axis:
 else:
     st.warning("X축과 Y축 컬럼을 선택해주세요.")
     streamlit
-
+streamlit
+pandas
+plotly

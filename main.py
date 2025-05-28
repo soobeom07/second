@@ -34,6 +34,3 @@ if x_axis and y_axis:
     st.plotly_chart(fig, use_container_width=True)
 else:
     st.warning("X축과 Y축 컬럼을 선택해주세요.")
-    streamlit
-pandas
-plotly

@@ -62,5 +62,10 @@ for _, row in X_result.iterrows():
 
 st.subheader("🌍 군집 결과 지도")
 st_folium(m, width=700, height=500)
+streamlit
+pandas
+scikit-learn
+folium
+streamlit-folium
 
 
